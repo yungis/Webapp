@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jurgis\\aspnetcoreapp\\aspnetcoreapp.csproj",
+      "projectUniqueName": "C:\\Project\\GitHub\\Webapp\\aspnetcoreapp\\aspnetcoreapp.csproj",
       "projectName": "aspnetcoreapp",
-      "projectPath": "C:\\Users\\jurgis\\aspnetcoreapp\\aspnetcoreapp.csproj",
+      "projectPath": "C:\\Project\\GitHub\\Webapp\\aspnetcoreapp\\aspnetcoreapp.csproj",
       "packagesPath": "C:\\Users\\jurgis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jurgis\\aspnetcoreapp\\obj\\",
+      "outputPath": "C:\\Project\\GitHub\\Webapp\\aspnetcoreapp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
