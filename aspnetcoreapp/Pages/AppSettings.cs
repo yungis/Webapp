@@ -4,5 +4,6 @@ namespace aspnetcoreapp
     {
         public string AppVersion { get; set; }
         public string EnvironmentName { get; set; }
+        public string PageName { get; set; }
     }
 }
