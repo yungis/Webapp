@@ -37,12 +37,6 @@
             @RenderBody()
         </main>
     </div>
-    @if (Settings.Value.EnvironmentName.ToLower() == "test")
-    {
-        <div>
-            Andris is having fun!
-        </div>
-    }
     <footer class="border-top footer text-muted">
         <div class="container">
             <p>&copy; 2020 - First Webapp | Version @Settings.Value.AppVersion running in @Settings.Value.EnvironmentName</p>
