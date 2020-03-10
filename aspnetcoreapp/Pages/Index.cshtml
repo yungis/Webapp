@@ -1,12 +1,12 @@
 ﻿@page
 @model IndexModel
 @{
-    ViewData["Title"] = "Home page";
+    ViewData["Title"] = Settings.Value.PageName;
 }
 @using Microsoft.Extensions.Options;
 @inject IOptions<AppSettings> Settings
 
 <div class="text-center">
-    <h1 class="display-4">@Settings.Value.EnvironmentName</h1>
+    <h1 class="display-4">@Settings.Value.PageName</h1>
     <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
 </div>
