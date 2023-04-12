@@ -1,3 +1,3 @@
 # Webapp
  
-[![Build status](https://teamcity.jetbrains.com/guestAuth/app/rest/builds/buildType:(id:TeamCityPluginsByJetBrains_TeamcityGoogleTagManagerPlugin_Build)/statusIcon](https://tc.geta.no/viewType.html?buildTypeId=TeamCityPluginsByJetBrains_TeamcityGoogleTagManagerPlugin_Build)
+[![Build status](https://tc.geta.no/guestAuth/app/rest/builds/buildType:(id:Milrab_Main_00ci)/statusIcon](https://tc.geta.no/viewType.html?buildTypeId=Milrab_Main_00ci)
