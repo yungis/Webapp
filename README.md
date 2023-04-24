@@ -1,1 +1,1 @@
-[![Build Status](https://tc.geta.no/app/rest/builds/buildType:(id:Playground_WebSites_NetCoreBuildChain_001ci),branch:master/statusIcon)](https://tc.geta.no/viewType.html?buildTypeId=Playground_WebSites_NetCoreBuildChain_001ci)
+
